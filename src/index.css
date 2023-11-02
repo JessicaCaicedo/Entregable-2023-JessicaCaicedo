@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(179, 238, 238);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.bienvenido{
+    text-align: center;
+}
+
+.diligencia{
+    text-align: center;
+}
+
+.formulario{
+    text-align: center;
+}
+
+.boton{
+    text-align: center;
+}
